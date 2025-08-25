@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HVAC Tech</string>
+    <string name="nav_home">Головна</string>
+    <string name="nav_ai">Помічник</string>
+    <string name="nav_database">База</string>
+    <string name="nav_calculator">Розрах.</string>
+    <string name="nav_specs">Характеристики</string>
+    <string name="nav_comparison">Порівняння</string>
+    <string name="nav_history">Історія</string>
+    <string name="nav_settings">Налаштування</string>
+</resources>
+

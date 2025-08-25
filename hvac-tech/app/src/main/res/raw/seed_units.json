@@ -1,0 +1,27 @@
+[
+  {
+    "brand": "Daikin",
+    "model": "FTXM35R",
+    "refrigerant": "R32",
+    "powerKw": 3.5,
+    "factoryChargeGrams": 900,
+    "maxPipeLengthMeters": 20,
+    "pipeLiquidMm": 6.35,
+    "pipeGasMm": 9.52,
+    "cableIndoorMm2": 1.5,
+    "cableOutdoorMm2": 2.5
+  },
+  {
+    "brand": "Mitsubishi Electric",
+    "model": "MSZ-AP50VGK",
+    "refrigerant": "R32",
+    "powerKw": 5.0,
+    "factoryChargeGrams": 1200,
+    "maxPipeLengthMeters": 30,
+    "pipeLiquidMm": 6.35,
+    "pipeGasMm": 12.7,
+    "cableIndoorMm2": 2.5,
+    "cableOutdoorMm2": 4.0
+  }
+]
+
