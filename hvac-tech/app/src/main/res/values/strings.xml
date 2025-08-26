@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HVAC Tech</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_ai">Asistente</string>
+    <string name="nav_database">Base</string>
+    <string name="nav_calculator">Cálculo</string>
+    <string name="nav_specs">Especificaciones</string>
+    <string name="nav_comparison">Comparación</string>
+    <string name="nav_history">Historial</string>
+    <string name="nav_settings">Ajustes</string>
+</resources>
+

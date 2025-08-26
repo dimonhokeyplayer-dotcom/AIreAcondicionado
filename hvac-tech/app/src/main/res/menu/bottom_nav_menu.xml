@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homeFragment" android:title="@string/nav_home" android:icon="@android:drawable/ic_menu_view" />
+    <item android:id="@+id/aiFragment" android:title="@string/nav_ai" android:icon="@android:drawable/ic_menu_search" />
+    <item android:id="@+id/databaseFragment" android:title="@string/nav_database" android:icon="@android:drawable/ic_menu_info_details" />
+    <item android:id="@+id/calculatorFragment" android:title="@string/nav_calculator" android:icon="@android:drawable/ic_menu_manage" />
+    <item android:id="@+id/specsFragment" android:title="@string/nav_specs" android:icon="@android:drawable/ic_menu_agenda" />
+    <item android:id="@+id/comparisonFragment" android:title="@string/nav_comparison" android:icon="@android:drawable/ic_menu_compass" />
+    <item android:id="@+id/historyFragment" android:title="@string/nav_history" android:icon="@android:drawable/ic_menu_recent_history" />
+    <item android:id="@+id/settingsFragment" android:title="@string/nav_settings" android:icon="@android:drawable/ic_menu_preferences" />
+</menu>
+

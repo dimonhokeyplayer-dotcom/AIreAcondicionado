@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/homeFragment">
+
+    <fragment android:id="@+id/homeFragment" android:name="com.example.hvactech.ui.home.HomeFragment" android:label="@string/nav_home" />
+    <fragment android:id="@+id/aiFragment" android:name="com.example.hvactech.ui.ai.AIFragment" android:label="@string/nav_ai" />
+    <fragment android:id="@+id/databaseFragment" android:name="com.example.hvactech.ui.database.DatabaseFragment" android:label="@string/nav_database" />
+    <fragment android:id="@+id/calculatorFragment" android:name="com.example.hvactech.ui.calculator.CalculatorFragment" android:label="@string/nav_calculator" />
+    <fragment android:id="@+id/specsFragment" android:name="com.example.hvactech.ui.specs.SpecsFragment" android:label="@string/nav_specs" />
+    <fragment android:id="@+id/comparisonFragment" android:name="com.example.hvactech.ui.comparison.ComparisonFragment" android:label="@string/nav_comparison" />
+    <fragment android:id="@+id/historyFragment" android:name="com.example.hvactech.ui.history.HistoryFragment" android:label="@string/nav_history" />
+    <fragment android:id="@+id/settingsFragment" android:name="com.example.hvactech.ui.settings.SettingsFragment" android:label="@string/nav_settings" />
+
+</navigation>
+
